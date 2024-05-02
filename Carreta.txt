@@ -1,0 +1,1 @@
+The attention maps from Vision Transformers (ViTs) indeed provide qualitative insights into which parts of the input image are attended to by the model. They're helpful for understanding the model's focus but might not directly quantify the importance of each region.
