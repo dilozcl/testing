@@ -1,0 +1,14 @@
+Explanation
+__init__.py File:
+
+This file can be empty, but its presence allows Python to recognize the directory as a package.
+It can also contain initialization code that you want to run when the package is imported.
+Module Import:
+
+The line from my_package import my_module in main_script.py imports the my_module.py file from the my_package directory.
+This setup allows you to organize your code into packages and modules, making it easier to manage and reuse.
+
+
+
+
+
